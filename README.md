@@ -74,8 +74,9 @@ Happy Coding!
 
 #### Unit 0 - Intro To Node
 
-[Node Installation](https://github.com/glf30/0a-node-installation)
-[Running Node](https://github.com/glf30/0b-running-node)
+[0A - Node Installation](https://github.com/glf30/0a-node-installation)
+
+[0B - Running Node](https://github.com/glf30/0b-running-node)
 
 ## **Labs and Projects**
 
