@@ -82,6 +82,8 @@ Happy Coding!
 
 [1A - Intro to Modules](https://github.com/glf30/1a-intro-to-modules) | [Notes](https://gist.github.com/glf30/e7b3929eb7e5215731de900d3ebe5310)
 
+[1B - Built-in Modules](https://github.com/glf30/1b-built-in-modules)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
