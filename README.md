@@ -40,7 +40,7 @@ Welcome! This will be your main place for Fullstack-related materials!
   - Routing and responding (text, JSON, HTML)
 - Lab: Basic Server
 
-### **02 - Node, Express & EJS**
+### **02 - Node, Express, & EJS**
 
 - Express
   - Routing
@@ -85,6 +85,9 @@ Happy Coding!
 [1B - Built-in Modules](https://github.com/glf30/1b-built-in-modules) | [Notes](https://gist.github.com/glf30/cd9675f7ca400dcab6b4d3f48c731b31)
 
 [1C - HTTP](https://github.com/glf30/1c-http) | [Notes](https://gist.github.com/glf30/d3b7e3a905071ee252ad2bb43cc12594)
+
+### Unit 2 - Node, Express, & EJS
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
