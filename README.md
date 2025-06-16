@@ -90,7 +90,7 @@ Happy Coding!
 
 [2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/bd3e12b03d955140f39d961462837a9e)
 
-[2B - Express]([https://github.com/glf30/2a-npm](https://github.com/glf30/2b-express)) | [Notes]([https://gist.github.com/glf30/bd3e12b03d955140f39d961462837a9e](https://gist.github.com/glf30/9fae2e7b099df69efb31fd94001cf6ca))
+[2B - Express](https://github.com/glf30/2b-express) | [Notes](https://gist.github.com/glf30/9fae2e7b099df69efb31fd94001cf6ca)
 
 ## **Labs and Projects**
 
