@@ -88,7 +88,7 @@ Happy Coding!
 
 ### Unit 2 - Node, Express, & EJS
 
-[2A - NPM](https://github.com/glf30/2a-npm) 
+[2A - NPM](https://github.com/glf30/2a-npm) | [Notes](https://gist.github.com/glf30/bd3e12b03d955140f39d961462837a9e)
 
 ## **Labs and Projects**
 
