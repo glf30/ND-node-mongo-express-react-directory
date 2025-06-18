@@ -94,6 +94,8 @@ Happy Coding!
 
 [2C - Express CRUD](https://github.com/glf30/2c-express-crud) | [Notes](https://gist.github.com/glf30/06ec494c9e15626807984f3a2f66eb40)
 
+[2D - API Requests](https://github.com/glf30/2d-api-requests) |
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
