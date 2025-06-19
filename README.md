@@ -96,6 +96,8 @@ Happy Coding!
 
 [2D - API Requests](https://github.com/glf30/2d-api-requests) | [Notes](https://gist.github.com/glf30/a498458fdff87a73a873cdea57a6577d)
 
+[2E - Express Router](https://github.com/glf30/2e-express-router) | [Notes]
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
