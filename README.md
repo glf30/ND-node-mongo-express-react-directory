@@ -96,15 +96,22 @@ Happy Coding!
 
 [2D - API Requests](https://github.com/glf30/2d-api-requests) | [Notes](https://gist.github.com/glf30/a498458fdff87a73a873cdea57a6577d)
 
-[2E - Express Router](https://github.com/glf30/2e-express-router) | [Notes](https://gist.github.com/glf30/f1f748155354b547452c8f39a5807f3b
+[2E - Express Router](https://github.com/glf30/2e-express-router) | [Notes](https://gist.github.com/glf30/f1f748155354b547452c8f39a5807f3b)
 
-[2F - EJS (Embedded Javascript)](https://github.com/glf30/2f-ejs) | [Notes]
+[2F - EJS (Embedded Javascript)](https://github.com/glf30/2f-ejs) | [Notes](https://gist.github.com/glf30/b932fba3a8ed64163813513fd4651be8)
+
+
+### Unit 3 - MongoDB
+
+[3A - Introduction to MongoDB](https://github.com/glf30/3a-intro-to-mongodb)
 
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
 
-N/A
+[Lab 1 - HTTP Portfolio](https://github.com/glf30/LAB-HTTP-Portfolio)
+
+[Lab 2 - Video Game Library API](https://github.com/glf30/LAB-Video-Game-Library-API)
 
 </details>
 
