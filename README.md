@@ -100,7 +100,7 @@ Happy Coding!
 
 [2F - EJS (Embedded Javascript)](https://github.com/glf30/2f-ejs) | [Notes](https://gist.github.com/glf30/b932fba3a8ed64163813513fd4651be8)
 
-[2G - One Page API](https://github.com/glf30/2g-one-page-api-app)
+[2G - One Page API](https://github.com/glf30/2g-one-page-api-app) | [Notes](https://gist.github.com/glf30/26dbd18a5161d821f097afc422eec06f)
 
 
 ### Unit 3 - MongoDB
