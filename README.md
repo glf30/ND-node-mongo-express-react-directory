@@ -100,12 +100,12 @@ Happy Coding!
 
 [2F - EJS (Embedded Javascript)](https://github.com/glf30/2f-ejs) | [Notes](https://gist.github.com/glf30/b932fba3a8ed64163813513fd4651be8)
 
-[2G - One Page API](https://github.com/glf30/2g-one-page-api-app) | [Notes](https://gist.github.com/glf30/26dbd18a5161d821f097afc422eec06f)
+[2G - One Page API](https://github.com/glf30/2g-one-page-api-app) 
 
 
 ### Unit 3 - MongoDB
 
-[3A - Introduction to MongoDB](https://github.com/glf30/3a-intro-to-mongodb)
+[3A - Introduction to MongoDB](https://github.com/glf30/3a-intro-to-mongodb) | [Notes](https://gist.github.com/glf30/26dbd18a5161d821f097afc422eec06f)
 
 ## **Labs and Projects**
 
