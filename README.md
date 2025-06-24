@@ -107,6 +107,8 @@ Happy Coding!
 
 [3A - Introduction to MongoDB](https://github.com/glf30/3a-intro-to-mongodb) | [Notes](https://gist.github.com/glf30/26dbd18a5161d821f097afc422eec06f)
 
+[3B - MongoDB CRUD](https://github.com/glf30/3b-mongodb-crud) | [Notes](https://gist.github.com/glf30/4e79920b4b2fb8925607cd9205705a48)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
