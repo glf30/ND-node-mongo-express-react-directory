@@ -109,6 +109,8 @@ Happy Coding!
 
 [3B - MongoDB CRUD](https://github.com/glf30/3b-mongodb-crud) | [Notes](https://gist.github.com/glf30/4e79920b4b2fb8925607cd9205705a48)
 
+[3C - Relational Data in MongoDB](https://github.com/glf30/3c-relational-databases/tree/master)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
