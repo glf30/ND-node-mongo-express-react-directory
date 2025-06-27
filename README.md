@@ -111,7 +111,7 @@ Happy Coding!
 
 [3C - Relational Data in MongoDB](https://github.com/glf30/3c-relational-databases/tree/master) | [Notes](https://gist.github.com/glf30/88b8f4fb388c266260981075f0c20f0c)
 
-[3D - Working with MongoDB Relationships](https://github.com/glf30/3D-Working-With-MongoDB-Relationships/tree/main) | [Notes]
+[3D - Working with MongoDB Relationships](https://github.com/glf30/3D-Working-With-MongoDB-Relationships/tree/main) | [Notes](https://gist.github.com/glf30/62f41eec1a07fabadb53752d82a853f6)
 
 ## **Labs and Projects**
 
