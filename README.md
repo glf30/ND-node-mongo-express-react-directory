@@ -115,7 +115,7 @@ Happy Coding!
 
 ### Unit 4 - Authentication
 
-[4A - Hash and Salt](https://github.com/glf30/4a-auth-hash-salt) | [Notes]
+[4A - Bcrypt Hash and Salt](https://github.com/glf30/4a-auth-hash-salt) | [Notes]
 
 ## **Labs and Projects**
 
