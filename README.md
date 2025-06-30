@@ -113,6 +113,10 @@ Happy Coding!
 
 [3D - Working with MongoDB Relationships](https://github.com/glf30/3D-Working-With-MongoDB-Relationships/tree/main) | [Notes](https://gist.github.com/glf30/62f41eec1a07fabadb53752d82a853f6)
 
+### Unit 4 - Authentication
+
+[4A - Hash and Salt](https://github.com/glf30/4a-auth-hash-salt) | [Notes]
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
