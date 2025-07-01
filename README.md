@@ -117,6 +117,8 @@ Happy Coding!
 
 [4A - Bcrypt Hash and Salt](https://github.com/glf30/4a-auth-hash-salt) | [Notes](https://gist.github.com/glf30/f9ab0a8248e020ac959be07c49a7e46b)
 
+[4B - Authentication Database](https://github.com/glf30/nd-node-authentication-database-test)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
