@@ -121,6 +121,8 @@ Happy Coding!
 
 [4C - Authentication Sessions](https://github.com/glf30/4c-auth-sessions) | [Notes](https://gist.github.com/glf30/7340bae92b1a30a634420ecb7e64a030)
 
+[4D - Auth0](https://gist.github.com/glf30/294548d527c58e33a9a9f1752746ff2b)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
