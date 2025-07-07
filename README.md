@@ -123,6 +123,10 @@ Happy Coding!
 
 [4D - Auth0](https://gist.github.com/glf30/294548d527c58e33a9a9f1752746ff2b)
 
+### Unit 5 - Projects
+
+[5A - Event API Project](https://github.com/glf30/5a-Event-API-Project)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
