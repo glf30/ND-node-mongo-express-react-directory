@@ -125,7 +125,7 @@ Happy Coding!
 
 ### Unit 5 - Projects
 
-[5A - Event API Project](https://github.com/glf30/5a-Event-API-Project)
+[5A - Event API Project](https://github.com/glf30/5a-Event-API-Project) | [Notes](https://github.com/glf30/Event-API-Node-June)
 
 ## **Labs and Projects**
 
