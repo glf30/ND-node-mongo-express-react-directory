@@ -127,6 +127,8 @@ Happy Coding!
 
 [5A - Event API Project](https://github.com/glf30/5a-Event-API-Project) | [Notes](https://github.com/glf30/Event-API-Node-June)
 
+[5B - Ecommerce API](https://github.com/glf30/Final-Project-E-Commerce)
+
 ## **Labs and Projects**
 
 <details><summary>Labs & Projects</summary>
