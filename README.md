@@ -155,3 +155,9 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [0A - ES Modules](https://github.com/glf30/0a-es-modules/tree/master) | [Notes](https://gist.github.com/glf30/34c7d9449cb2b83aa68e3972b8c70aea)
 
+#### Unit 1 - Intro to React
+
+[1A - JSX](https://github.com/glf30/1a-jsx) | [Notes](https://gist.github.com/glf30/f50ff7d4e31d0de7b0b20135e3df3480)
+
+[1B - Components](https://github.com/glf30/1b-components)
+
