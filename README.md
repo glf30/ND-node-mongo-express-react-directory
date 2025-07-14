@@ -152,3 +152,6 @@ Welcome! This will be your main place for Fullstack-related materials!
 </details>
 
 #### Unit 0 - Pre-React Work
+
+[0A - ES Modules](https://github.com/glf30/0a-es-modules/tree/master) | [Notes](https://gist.github.com/glf30/34c7d9449cb2b83aa68e3972b8c70aea)
+
