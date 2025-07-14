@@ -140,3 +140,15 @@ Happy Coding!
 </details>
 
 ---
+
+# ND React Directory
+
+Welcome! This will be your main place for Fullstack-related materials!
+
+## 📚 **Helpful Resources/Links**
+
+<details><summary>Click to view</summary>
+
+</details>
+
+#### Unit 0 - Pre-React Work
