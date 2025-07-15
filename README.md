@@ -161,5 +161,5 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [1B - Components](https://github.com/glf30/1b-components) | [Notes](https://gist.github.com/glf30/8dd0dedf4ee8f1d97e09261b39220ade)
 
-[1D - Conditional Rendering](https://github.com/glf30/1d-conditional-rendering/tree/master)
+[1D - Conditional Rendering](https://github.com/glf30/1d-conditional-rendering/tree/master) | [Notes](https://gist.github.com/glf30/1f71e291ee4c31aa186841347e00709e)
 
