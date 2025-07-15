@@ -159,5 +159,5 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [1A - JSX](https://github.com/glf30/1a-jsx) | [Notes](https://gist.github.com/glf30/f50ff7d4e31d0de7b0b20135e3df3480)
 
-[1B - Components](https://github.com/glf30/1b-components)
+[1B - Components](https://github.com/glf30/1b-components) | [Notes](https://gist.github.com/glf30/8dd0dedf4ee8f1d97e09261b39220ade)
 
