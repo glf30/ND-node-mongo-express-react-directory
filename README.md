@@ -167,3 +167,5 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [2A - Props](https://github.com/glf30/2a-props) | [Notes](https://gist.github.com/glf30/25b9cf95acea24e0dc47e19d12d25b65)
 
+[2B - Iterating Props](https://github.com/glf30/2b-iterating-props)
+
