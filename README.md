@@ -163,3 +163,7 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [1D - Conditional Rendering](https://github.com/glf30/1d-conditional-rendering/tree/master) | [Notes](https://gist.github.com/glf30/1f71e291ee4c31aa186841347e00709e)
 
+#### Unit 2 - Props and State
+
+[2A - Props](https://github.com/glf30/2a-props) | [Notes](https://gist.github.com/glf30/25b9cf95acea24e0dc47e19d12d25b65)
+
