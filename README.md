@@ -171,6 +171,8 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [2C - Functions as Props](https://github.com/glf30/2c-functions-as-props)
 
+[2D - State](https://github.com/glf30/2d-state/tree/master) | [Notes](https://gist.github.com/glf30/1368ef6536c16bf4ac854c8b53e69c090
+
 ### Unit 3 - Intermediate React
 
 [3A - Forms](https://github.com/glf30/3a-forms/tree/master) | [Notes](https://gist.github.com/glf30/f5b6a5d43c6de6f940707aed56d24a2f)
