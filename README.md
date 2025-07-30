@@ -179,3 +179,5 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [3D - Routing](https://github.com/glf30/3d-routing/tree/master) | [Notes](https://gist.github.com/glf30/ede2ed3b003249f29dc02b0149e44fef)
 
+[3E - Context](https://react.dev/learn/passing-data-deeply-with-context) | [Notes](https://gist.github.com/glf30/a2cfd1c3c5e310cf7b91d0b24cb4f8c3)
+
