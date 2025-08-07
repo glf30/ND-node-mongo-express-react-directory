@@ -181,3 +181,6 @@ Welcome! This will be your main place for Fullstack-related materials!
 
 [3E - Context](https://react.dev/learn/passing-data-deeply-with-context) | [Notes](https://gist.github.com/glf30/a2cfd1c3c5e310cf7b91d0b24cb4f8c3)
 
+### Unit 4 - Typescript
+[4A - Typescript](https://gist.github.com/glf30/97b7ce55006f2a6b09667d22e635a94b)
+
